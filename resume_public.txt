@@ -1,0 +1,89 @@
+Keerthana Reddy 
+Software Engineer 
+SUMMARY 
+Software Engineer with 5+ years of hands-on experience in Java development, focused on building and supporting high
+performance backend systems for real-world applications. Experienced in designing clean, scalable services and gradually 
+expanding expertise into AI-driven features and intelligent automation, using Python for data handling and AI workflows. Known 
+for writing maintainable code, understanding business requirements, and collaborating effectively with cross-functional teams 
+to deliver reliable, practical, and impactful software solutions. 
+SKILLS 
+Programming Languages: Java (Core Java, Java 8+), Python (basic for automation), SQL, Bash, JavaScript, TypeScript 
+Backend Development: Spring Boot, Spring Security, Flask, Node.js, RESTful API Development, Microservices Architecture 
+Frontend Technologies: React.js, MaterialUI, HTML5, CSS3 
+Data & Analytics: SQL Queries (Joins, Window Functions), Python-based ETL, Data Modeling, Machine Learning Basics (scikit
+learn), Metrics and Dashboard Development 
+Object-Oriented Design: OOP Principles, Design Patterns, Modular Code Design 
+Databases: SQL, MySQL, PostgreSQL, Database Design, Query Optimization 
+Cloud & DevOps Tools: AWS (EC2, S3), Jenkins, CI/CD Pipelines 
+AI & Intelligent Systems: AI Feature Integration, Model Integration, Data Processing, AI API Consumption 
+Tools & Technologies: Git, Maven, Gradle, CI/CD Basics, Docker (basic), Linux 
+Testing & Quality: JUnit, Unit Testing, Debugging, Code Review, Performance Optimization 
+Development Practices: Agile/Scrum, SDLC, Version Control, Code Quality Standards 
+EXPERIENCE 
+Cigna Healthcare, Software Engineer                                                    
+Dallas, TX 
+Aug 2025 – Present 
+• Built and maintained 8 RESTful services in Java and Spring Boot, defining clear API contracts and versioning to support 11 
+business modules handling 1.4M requests monthly with 99.9% uptime. 
+• Modeled data in MySQL and PostgreSQL while creating optimized queries for reporting and validation, improving 
+aggregation performance by 37% across 3 major analytics dashboards. 
+• Deployed microservices through Jenkins pipelines integrated with Docker containers, reducing deployment time from 25 
+minutes to under 8 minutes and eliminating manual intervention in 95% of cases. 
+• Authored Postman collections and OpenAPI documentation for 10 core APIs, raising integration accuracy by 22% and 
+reducing onboarding time for new developers by 30%. 
+• Designed observability using structured logs and Grafana dashboards, defining 12 service metrics that cut mean time to 
+recovery (MTTR) by 41% during incident triage. 
+• Developed Node.js utilities to automate test execution and log parsing, shortening local debugging time by 28% and 
+supporting React and Angular teams with stable API endpoints. 
+JPMorgan Chase & Co., Software Engineer Intern                   
+Dallas, TX 
+Dec 2024 – May 2025                                
+• Developed 5 Java Spring Boot APIs for real-time transaction processing handling 2.8M requests daily with under 200 ms 
+latency, while managing versioning and Git workflows for consistent releases. 
+• Constructed 7 Python- and SQL-based ETL workflows automating batch data refreshes from 4 sources, improving reliability 
+by 35% and reducing manual reconciliation by 20 staff hours monthly. 
+• Refined SQL queries and stored procedures in MySQL and PostgreSQL, lowering query execution time by 46% and enhancing 
+overall database throughput for 3 internal finance systems. 
+• Deployed containerized microservices using Docker on AWS EC2 with S3 for object storage, increasing deployment 
+consistency by 32% and ensuring full environment parity across stages. 
+• Authored Jenkins pipelines and Postman regression suites supporting 3 testing tiers, reducing integration defects by 27% 
+and enabling automated verification before each release. 
+• Used MongoDB for rapid prototype creation and ad-hoc operational analytics, collaborating with analytics teams to define 
+10 KPIs visualized in internal dashboards tracking system performance. 
+Jan 2021 – Jul 2023 
+Citius Tech, Software Developer              
+Hyderabad, India 
+• Delivered 9 Spring Boot microservices enabling real-time data exchange between 4 healthcare platforms, handling over 2.5M 
+transactions monthly while maintaining 99.8% service uptime and sub-250 ms response time. 
+• Reconstructed 30+ SQL queries with indexed joins and partitioned tables, improving reporting speed by 63% and lowering 
+overall database load by 18% across multiple high-traffic modules. 
+• Designed user authentication and authorization framework in Spring Security for 3 enterprise tools, supporting 500+ 
+clinicians and administrators with secure, role-based access control. 
+• Configured CI/CD pipelines using Jenkins and Maven for 5 production services, shortening release cycles from 10 days to 3 
+days and reducing manual deployment errors by 42%. 
+• Refined internal data models and REST API payloads to remove redundancy, cutting average response size by 19% and 
+improving downstream analytics processing time by 28%. 
+• Collaborated with 6 engineers and QA specialists to stabilize ETL workflows written in Python, achieving 97% data accuracy 
+during nightly batch processing across multiple hospital data systems. 
+Hexaware Technologies, Software Developer               
+Hyderabad, India  
+Jul 2019 – Dec 2020                                        
+• Designed Python Flask services integrated with PostgreSQL, exposing 12 REST endpoints for fraud detection workflows 
+processing over 4M daily transactions with 99.8% reliability and consistent sub-300 ms response times. 
+• Built React.js dashboards and collaborated on Angular-based admin panels linked to backend APIs, providing near real-time 
+reporting that reduced manual fraud audit time by 38%. 
+• Authored 25+ SQL queries using window functions and CTEs while optimizing indexes, achieving a 52% reduction in query 
+latency across 3 core database schemas. 
+• Decomposed 2 legacy monolith systems into 10 containerized microservices deployed on AWS EC2, cutting deployment time 
+by 45% and improving scalability for cross-region workloads. 
+• Partnered with 3 data scientists to integrate baseline machine learning models in scikit-learn, improving anomaly detection 
+precision by 21% and enriching fraud investigation outcomes. 
+• Practiced object-oriented principles and modular design patterns across 14 components, reducing maintenance overhead 
+by 33% and ensuring consistent code readability across development teams. 
+EDUCATION 
+Master’s in Computer and Information Sciences              
+University of North Texas | Denton, TX 
+Bachelor’s in Computer Science and Engineering              
+BV Raju Institute of Technology | Medak, Telangana, India 
+Aug 2023 – May 2025 
+Aug 2015 – May 2019
